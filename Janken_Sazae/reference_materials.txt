@@ -1,0 +1,6 @@
+
+Pythonの基礎　ファイル(CSV)に書き込む編
+http://peaceandhilightandpython.hatenablog.com/entry/2013/12/05/070444
+
+Amazon Machine Learningでサザエさんじゃんけんを予測してみた
+http://dev.classmethod.jp/cloud/aws/predict-sazaesan-janken-by-amazon-machine-learning/
